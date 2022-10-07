@@ -46,7 +46,7 @@ const products = [
   },
   {
     title: "A Banda",
-    category: "Brasileria",
+    category: "Brasileira",
     price: 98.0,
     img: "./assets/img/a banda.jpg",
     band: "Chico Buarque",
